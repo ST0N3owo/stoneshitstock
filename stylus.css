@@ -1,0 +1,8 @@
+body {
+    font-family: 'Agency FB';
+    font: size 700px;
+    text-align: center;
+    color:rgb(170, 106, 255);
+    background-color: rgb(15, 14, 24);
+    backdrop-filter: 2;
+}
