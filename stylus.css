@@ -1,5 +1,10 @@
+@font-face {
+    font-family: '8bitOperatorPlus-Bold';
+    src: url(8bitOperatorPlus-Bold.ttf);
+}
 body {
-    font-family: '8-bit Operator+';
+   
+    font-family: '8bitOperatorPlus-Bold';
     font-size: 25px;
     text-align: center;
     color:rgb(170, 106, 255);
