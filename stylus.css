@@ -10,7 +10,6 @@ body, html {
 }
 
 html{
-    background-attachment: scroll;
     background-color: #08003e;
     background-image:  repeating-linear-gradient(45deg, #000026 25%, transparent 25%, transparent 75%, #000026 75%, #000026), repeating-linear-gradient(45deg, #000026 25%, #08003e 25%, #08003e 75%, #000026 75%, #000026);
     background-position: 0 0, 100px 100px;
