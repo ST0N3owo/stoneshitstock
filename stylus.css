@@ -1,22 +1,17 @@
-html{
-    background-image:url("bg.png");
-    /*background-color: lightgray;*/
-    height: 700px;
-    width:100%;
-    background-size:auto;
-}
-
 @font-face {
-    src: url(8bitOperatorPlus-Bold.woff) format(woff),
-    url(8bitOperatorPlus-Bold.woff2) format(woff2);
-    font-family: '8-bit Operator+';
+    font-family: '8bits+';
+    src: url('8bitOperatorPlus-Bold.woff') format('woff'),
+    url('8bitOperatorPlus-Bold.woff2') format('woff2'),
+    url('8bitOperatorPlus-Bold.ttf')  format('truetype');
+
   }
+
 
 
 body, html {
     justify-content: center;
     padding: 10px;
-    font-family: '8-bit Operator+';
+    font-family: '8bits';
     font-weight: bold;
     font-style: normal;
     font-size: 25px;
@@ -25,6 +20,14 @@ body, html {
 }
 
 
+
+html{
+    background-image:url("bg.png");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:auto;
+}
 
 
 
