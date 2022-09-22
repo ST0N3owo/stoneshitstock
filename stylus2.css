@@ -20,7 +20,7 @@ body {
   border: 7px solid rgb(255, 255, 255);
   background-color:rgba(136, 247, 255, 0.089);
   background-clip: content-box;
-  width:450px; /* you can use % */
+  width:300px; /* you can use % */
   height: auto;
 }
 
