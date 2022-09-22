@@ -1,8 +1,6 @@
 @media only screen and (max-device-width: 1366px) {
-    .parallax {
-      background-attachment: scroll;
-    }
-  }
+    background-attachment: scroll;
+}
 
 
 
@@ -21,6 +19,7 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 
 
 
