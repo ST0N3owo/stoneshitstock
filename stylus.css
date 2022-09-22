@@ -1,8 +1,3 @@
-@media only screen and (max-device-width: 1366px) {
-    background-attachmen:default;
-}
-
-
 body, html {
     justify-content: center;
     padding: 10px;
@@ -12,11 +7,14 @@ body, html {
     font-size: 25px;
     text-align:center;
     color:rgb(170, 106, 255);
-    background-image: url("bg.jpg");
+}
+
+html{
     background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #08003e;
+    background-image:  repeating-linear-gradient(45deg, #000026 25%, transparent 25%, transparent 75%, #000026 75%, #000026), repeating-linear-gradient(45deg, #000026 25%, #08003e 25%, #08003e 75%, #000026 75%, #000026);
+    background-position: 0 0, 100px 100px;
+    background-size: 200px 200px;
 }
 
 
@@ -68,4 +66,5 @@ a {
     position: relative;
     top: 1450px;
 }
+
 
