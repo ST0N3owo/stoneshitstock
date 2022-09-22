@@ -6,6 +6,12 @@ html{
     background-size:auto;
 }
 
+@font-face {
+    src: url(8bitOperatorPlus-Bold.woff) format(woff),
+    url(8bitOperatorPlus-Bold.woff2) format(woff2);
+    font-family: '8-bit Operator+';
+  }
+
 
 body, html {
     justify-content: center;
