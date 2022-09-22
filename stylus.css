@@ -16,7 +16,14 @@ body, html {
 
 
 
+@media only screen and (max-device-width: 1366px) {
+    .parallax {
+      background-attachment: scroll;
+    }
+  }
 
+
+  
 #megan img[src="https://pbs.twimg.com/media/FFzaYfcWYAA8jXe.png"] {
     border: 7px solid rgb(255, 255, 255);
     background-color:rgba(136, 247, 255, 0.089);
@@ -56,6 +63,8 @@ a {
     position: relative;
     top: 1500px;
 }
+
+
 
 #later img {
     position: relative;
