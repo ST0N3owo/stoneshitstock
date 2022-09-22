@@ -7,6 +7,7 @@ body {
     font-weight: bold;
     font-style: normal;
     font-size: 25px;
+    src: url(8bitOperatorPlus-Bold.woff2) format('woff2');
     text-align:center;
     color:rgb(135, 29, 255);
     background: rgb(0, 0, 0);
