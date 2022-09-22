@@ -1,8 +1,5 @@
 html{
-    background-color: #000026;
-    background-image:  repeating-linear-gradient(45deg, #08003e 25%, transparent 25%, transparent 75%, #08003e 75%, #08003e), repeating-linear-gradient(45deg, #08003e 25%, #000026 25%, #000026 75%, #08003e 75%, #08003e);
-    background-position: 0 0, 40px 40px;
-    background-size: 80px 80px;
+    background-image: 'bg.png';
 }
 
 
