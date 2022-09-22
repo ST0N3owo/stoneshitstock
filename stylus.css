@@ -1,5 +1,5 @@
 html{
-    background-image: 'bg.png';
+    background-image: url("bg.png");
 }
 
 
@@ -13,6 +13,8 @@ body, html {
     text-align:center;
     color:rgb(170, 106, 255);
 }
+
+
 
 
 
