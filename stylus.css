@@ -1,5 +1,9 @@
 html{
-    background-image: url("bg.png");
+    background-image:url("bg.png");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:auto;
 }
 
 
