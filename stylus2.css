@@ -1,0 +1,29 @@
+
+
+body {
+    justify-content: center;
+    padding: 10px;
+    font-family: '8-bit Operator+';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+    text-align:center;
+    color:rgb(135, 29, 255);
+    background: rgb(0, 0, 0);
+  }
+  
+  
+
+#marcosmion video{
+  position: relative;
+  top: 50px;
+  border: 7px solid rgb(255, 255, 255);
+  background-color:rgba(136, 247, 255, 0.089);
+  background-clip: content-box;
+  width:450px; /* you can use % */
+  height: auto;
+}
+
+#cu {
+  mask-clip: content-box;
+}

@@ -1,11 +1,64 @@
-body {
-   
+body, html {
+    justify-content: center;
+    padding: 10px;
     font-family: '8-bit Operator+';
     font-weight: bold;
     font-style: normal;
     font-size: 25px;
-    text-align: center;
+    text-align:center;
     color:rgb(170, 106, 255);
-    background-image: linear-gradient(rgb(10, 9, 44), rgb(7, 6, 10));
+    background-image: url("bg.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+#megan img[src="https://pbs.twimg.com/media/FFzaYfcWYAA8jXe.png"] {
+    border: 7px solid rgb(255, 255, 255);
+    background-color:rgba(136, 247, 255, 0.089);
+    background-clip: content-box;
+    width:375px; /* you can use % */
+    height: auto;
+ }
+
+
+
+h3 {
+    color: white;
+}
+
+
+
+a {
+    font-size: 40px;
+    background: -webkit-linear-gradient(rgb(0, 255, 21), rgb(0, 100, 50));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+
+
+#megadance img[src="spr_dance.gif"] {
+    position:static;
+    top: -160px;
+    width:60px; /* you can use % */
+    height: auto;
+    
+}
+
+
+
+#well {
+    position: relative;
+    top: 1500px;
+}
+
+#later img {
+    position: relative;
+    top: 1450px;
 }
 
